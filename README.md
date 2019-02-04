@@ -1,6 +1,6 @@
 # WhoSheLikes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VoltK/WhoSheLikes.git/master)
 
-description in main file
+Check Instagram user. Using unofficial Insta-API. Details in main file
 
 
 To try it online:
