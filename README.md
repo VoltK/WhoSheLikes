@@ -1,10 +1,10 @@
-# WhoSheLikes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VoltK/WhoSheLikes.git/master)
+# WhoSheLikes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VoltK/WhoSheLikes/master)
 
 Check Instagram user. Uses unofficial Insta-API. Details in main file
 
 
 To try it online:
-https://hub.mybinder.org/user/voltk-whoshelikes-k6vvcq7l/notebooks/WhoSheLikes.ipynb
+https://mybinder.org/v2/gh/VoltK/WhoSheLikes/master
 
 Default namelist: male_names.txt (Mostly Russian names)
 
