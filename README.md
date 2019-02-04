@@ -1,2 +1,2 @@
 # WhoSheLikes
-in main file
+description in main file
