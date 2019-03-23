@@ -14,5 +14,5 @@ https://mybinder.org/v2/gh/VoltK/WhoSheLikes/master
 
 ### Note:
 
-if you don't specify path yo your namelist by default it will be set to *male_names.txt* (Mostly Russian names)
+if you don't specify path to your namelist by default it will be set to *male_names.txt* (Mostly Russian names)
 
